@@ -1,6 +1,6 @@
 👋 HELLO THERE!
 <BR>I’m KHUSHI NAYAK
-<BR>I’m interested in LEREN new THINGS !
+<BR>I’m interested in LEREN NEW THINGS !
 
 <!---
 Khushiinayak/Khushiinayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
